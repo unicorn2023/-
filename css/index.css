@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+}
+
+header img {
+
+    max-width: 1000px;
+    width: 30%;
+}
+
+header {
+    background-color: #FEE600;
+    text-align: left;
+}
+
+.card-text {
+    height: 150px;
+    font-style: italic;
+    color: blue;
+}
+
+.carousel {
+    max-width: 600px;
+    margin-left: 50px;
+}
+
+.nav-link {
+    color: #8e7f6d;
+    font-size: 1.2em;
+}
+
+.container {
+    width: 960px;
+    margin: 2em auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    background-color: mistyrose;
+    margin: 0px;
+}
+
+.card {
+    background-color: beige;
+}
+
+.btn-info {
+    margin-left: 50px;
+}
+
+footer {
+    background-color: palegreen;
+    text-align: center;
+    font-size: 30px;
+    color: dodgerblue;
+    font-style: oblique;
+    margin: 0px;
+    height: 150px;
+}
+.title {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bolder;
+    color: red;
+}
